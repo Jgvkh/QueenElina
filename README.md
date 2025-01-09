@@ -1,10 +1,4 @@
 
-       <h3>🌸 How To Deploy </h3>
-
-<h5>🌸 First tap to Fork button and create new fork</h5>
-
-<h4>🌸 Following 👇</h4>
-<hr>	
 <h3>🌸 Get Your SESSION ID 👇</h3> 
 <h4>Click the SESSION_ID Button</h4>
 <h5>🌸(SESSION_ID ලබා ගැනීමට පහත බටන් එක click කරන්න)</h5> 
